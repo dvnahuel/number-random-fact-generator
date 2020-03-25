@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap');
+
+body {
+    background-color: #33313b;
+    color: #eef8ff;
+    font-family: Nunito;
+}
+
+
+.card {
+    background-color: #834c69;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+#factText {
+    font-weight: 600;
+}
+
+
+
+
+#fact {
+    display: none;
+}
